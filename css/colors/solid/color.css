@@ -1,0 +1,31 @@
+.dropdown-item.active,
+.dropdown-item:active,
+.thegncy-btn a,
+.thegncy-btn input,
+.single_item_content,
+.portfolio-filter li.select-cat,
+.gradient-bg,
+.service-item:hover,
+.feature-item:hover .feature-item-icon,
+.banner-2 .bnr-social ul li a:hover,
+.banner-2 .bnr-btn ul li a:hover {
+    background: #480bb8;
+}
+
+.service-item-2 i,
+.banner-2 p span,
+.feature-item-icon i,
+.bnr-counter ul li span,
+.service-item i {
+    color: #480bb8;
+}
+
+.call-to-action a,
+.thegncy-btn .contact-btn {
+    background: #ff7348;
+}
+.section-title h1 span,
+.section-title>span, 
+.banner4_service_item i {
+    color: #6346fe;
+}

@@ -1,0 +1,35 @@
+/*Yellow*/
+
+.pricing-item .pricing-card,
+.footer-call-to-action a,
+.seo-form input[type=submit],
+.portfolio-sec .prevPortfolio,
+.banner-3 a {
+    background: #ff6c43;
+}
+.testimonials-2 .slick-dots li button:before,
+.footer-call-to-action span,
+.portfolio-sec span ,
+.section-title>span {
+    color: #ff6c43;
+}
+
+/*Blue*/
+.dropdown-item.active,
+.dropdown-item:active,
+.service-item:hover,
+.pricing-item .pricing-card a,
+.blue-bg,
+.portfolio-sec .nextPortfolio,
+.blog-item-shape:hover,
+.testi-bg,
+.feature-item:hover .feature-item-icon {
+    background: #502eff;
+}
+
+.awards i,
+.seo-form .seo-form-content label,
+.service-item i,
+.section-title h1 span {
+    color: #502eff;
+}
